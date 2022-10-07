@@ -12,11 +12,17 @@ Microsoft Excel (Advanced)
 Google Sheets
 
 📚Courses and Certifications📚
+
 Secured 5 stars in Hacker rank in MySQL.
+
 Beginner MySQL Business Intelligence - Udemy
+
 Advanced SQL for Analytics Business Intelligence - Udemy
+
 Advanced Excel - Udemy
+
 Advanced Excel, VBA & Macros - Certification Course - SkilloVilla Institute
+
 Tableau Certification Course - SkilloVilla Institute
 
 📊Projects on Excel📊
