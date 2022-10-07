@@ -27,4 +27,4 @@
 - Gender Split for UK Population in 2021 - Click [HERE](https://public.tableau.com/app/profile/jaswanthi.tanakala/viz/ButterflyChart_16582249231350/Dashboard1)
 
 👩‍💻 Projects on SQL 👩‍💻
-- Capstone Project on Airline Database - Click [HERE]
+- Capstone Project on Airline Database - Click [HERE](https://github.com/Jaswanthi0608/Capstone-Project---Airline-DB/commit/ee5521be7184b4e0b5590075efe2194678312bb9)
